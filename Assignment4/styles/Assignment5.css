@@ -1,0 +1,10 @@
+section.section1 {background-color: yellow; visibility: hidden; position: fixed; width: 600px; overflow: scroll;}
+section.section2 {background-color: turquoise; visibility: hidden; position: fixed; width: 600px; overflow: scroll;}
+ 
+#image {width: 600px;}
+
+h1 {font-family: sans-serif;}
+h2 {font-family: cursive;}
+h3 {font-family: sans-serif}
+
+
