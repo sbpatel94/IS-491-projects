@@ -1,5 +1,5 @@
-section.section1 {background-color: yellow; visibility: hidden; position: fixed; width: 600px; overflow: scroll;}
-section.section2 {background-color: turquoise; visibility: hidden; position: fixed; width: 600px; overflow: scroll;}
+section.section1 {background-color: yellow; visibility: hidden; width: 600px; overflow: scroll; position: absolute;}
+section.section2 {background-color: turquoise; visibility: hidden; width: 600px; overflow: scroll; position: absolute;}
  
 #image {width: 600px;}
 
